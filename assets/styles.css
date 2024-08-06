@@ -1,0 +1,15 @@
+
+.modal-container{
+    width: 500px;
+    height: 500px;
+    color: rgb(45, 45, 114);
+    /* display: flex; */
+    /* justify-content: center; */
+}
+button{
+    display: flex;
+    justify-content: center;
+    width: 9em;
+    border-radius: 10px;
+    /* background-color: yellow; */
+}
