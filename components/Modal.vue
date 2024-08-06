@@ -11,7 +11,7 @@
                 <h2 class="text-xl font-bold m-3">Asistencia Médica Virtual Inmediata</h2>
             </div>
             <div class="flex justify-center m-3">
-                <Form :datosRecibidos="datosDesdePadre"/>
+                <Form/>
             </div>
          
         </div>
@@ -19,7 +19,6 @@
 </template>
 
 <script>
-console.log(datosDesdePadre);
 
 import NumericInput from './Form.vue';
 export default {
