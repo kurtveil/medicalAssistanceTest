@@ -7,7 +7,7 @@
       <div v-if="!campoValido" role="alert">
 
         <div class="border border-t-0 border-red-400 rounded-b bg-red-100 px-4 py-3 text-red-700">
-          <p>Ingrese un numero de documento.</p>
+          <p>Ingrese un número de documento.</p>
         </div>
       </div>
     </div>
