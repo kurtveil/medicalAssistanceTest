@@ -5,13 +5,13 @@
       <UFormGroup  name="celphone">
         <UInput   class=" bg-white" placeholder="Celular" v-model="state.celphone" type="text" />
       </UFormGroup>
-      <UFormGroup  name="nombre">
+      <UFormGroup  name="name">
         <UInput   class=" bg-white" placeholder="Nombre" v-model="state.name" type="text" />
       </UFormGroup>
-      <UFormGroup  name="apellidos">
+      <UFormGroup  name="surname">
         <UInput   class=" bg-white" placeholder="Apellidos" v-model="state.surname" type="text" />
       </UFormGroup>
-      <UFormGroup  name="correo-electronico">
+      <UFormGroup  name="email">
         <UInput   class=" bg-white" placeholder="Corre electronico" v-model="state.email" type="text" />
       </UFormGroup>
     </div>
